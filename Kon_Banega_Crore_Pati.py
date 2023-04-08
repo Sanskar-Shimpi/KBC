@@ -157,7 +157,7 @@ def question_5():
 	if (user_ans_5 == 2 or user_ans_5 == 3 or user_ans_5 == 4):
 		print(colored("\nWrong Option Selected", "yellow"))
 	elif(user_ans_5 ==1):
-		print(colored("\nCorrect Answer! You Won 5,00,000", "green"))
+		print(colored("\nCorrect Answer! You Won 7,00,000", "green"))
 	else:
 		print(colored("\nOut Of Time", "yellow"))
 		
